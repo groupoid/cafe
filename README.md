@@ -17,9 +17,9 @@ During this lecture, Maxim will try to smoothly guide you from the programming p
 Credits
 -------
 
-Intetics (intetics.com) Sponsor
-Maxim Sokhatsky (5ht.co) Author
-Olga Novykova (morethan.business) Support
+* Intetics (intetics.com) Sponsor
+* Maxim Sokhatsky (5ht.co) Author
+* Olga Novykova (morethan.business) Support
 
 
 
