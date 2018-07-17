@@ -18,8 +18,8 @@ Credits
 -------
 
 * Intetics (http://intetics.com) Sponsor
-* Maxim Sokhatsky (http://5ht.co) Author
 * Olga Novykova (http://morethan.business) Support
+* Maxim Sokhatsky (http://5ht.co) Author
 
 
 
