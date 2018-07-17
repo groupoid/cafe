@@ -17,7 +17,7 @@ During this lecture, Maxim will try to smoothly guide you from the programming p
 Credits
 -------
 
-* Namdak Tonpa
+* Maxim Sokhatsky
 * Olga Novikova
 
 
