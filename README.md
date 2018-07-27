@@ -1,7 +1,8 @@
 # HoTT: The Language of Space
 
 Groupoid Infinity Presentation (Slides) for Public Event f(cafe) 25 July 2018 
-https://www.facebook.com/kievfprog/posts/1626535840802381
+https://www.facebook.com/kievfprog/posts/1626535840802381 <br>
+DOI: 10.13140/RG.2.2.36617.34402
 
 Abstract
 --------
@@ -20,6 +21,5 @@ Credits
 * Intetics (http://intetics.com) Sponsor
 * Olga Novykova (http://morethan.business) Support
 * Maxim Sokhatsky (http://5ht.co) Author
-
 
 
