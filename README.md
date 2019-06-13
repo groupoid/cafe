@@ -19,7 +19,6 @@ Credits
 -------
 
 * Intetics (http://intetics.com) Sponsor
-* Olga Novykova (http://morethan.business) Support
 * Maxim Sokhatsky (http://tonpa.guru) Author
 * HoTT Courses (http://groupoid.space/course/)
 
