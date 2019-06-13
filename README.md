@@ -31,7 +31,7 @@ Abstract
 --------
 
 Introduction to Formal Languages, its Design and Implementations.
-Three practial modern pure languages will be dislosed: Plutus, Morte, Formality.
+Three practial modern pure languages will be disclosed: Plutus, Morte, Formality.
 
 Credits
 -------
