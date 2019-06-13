@@ -30,7 +30,7 @@ DOI: 10.13140/RG.2.2.36617.34402 https://cafe.groupoid.space/languages.pdf
 Abstract
 --------
 
-Introduction to Formal Languages Development.
+Introduction to Formal Languages, its Design and Implementations.
 Three practial modern pure languages will be dislosed: Plutus, Morte, Formality.
 
 Credits
