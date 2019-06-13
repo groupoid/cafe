@@ -19,7 +19,6 @@ Credits
 -------
 
 * Intetics (http://intetics.com) Sponsor
-* Maxim Sokhatsky (http://tonpa.guru) Author
 * HoTT Courses (http://groupoid.space/course/)
 
 # The Languages #2
