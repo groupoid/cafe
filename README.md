@@ -24,7 +24,7 @@ Credits
 
 # The Languages #2
 
-Groupoid Infinity Presentation (Slides) for Public Event Quanterall HQ Varna, Bulgaria, 13 June 2019
+Groupoid Infinity Presentation (Slides) for Public Event Quanterall HQ Varna, Bulgaria, 13 June 2019<br>
 DOI: 10.13140/RG.2.2.28584.21763 https://cafe.groupoid.space/languages.pdf
 
 Abstract
