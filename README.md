@@ -1,8 +1,8 @@
-# HoTT: The Language of Space
+# HoTT: The Language of Space #1
 
-Groupoid Infinity Presentation (Slides) for Public Event f(cafe) 25 July 2018 
+Groupoid Infinity Presentation (Slides) for Public Event, Kyiv, Ukraine, f(cafe), 25 July 2018 
 https://www.facebook.com/kievfprog/posts/1626535840802381 <br>
-DOI: 10.13140/RG.2.2.36617.34402
+DOI: 10.13140/RG.2.2.36617.34402 https://cafe.groupoid.space/cafe.pdf
 
 Abstract
 --------
@@ -19,8 +19,21 @@ Credits
 -------
 
 * Intetics (http://intetics.com) Sponsor
-* Olga Novykova (http://morethan.business) Support
-* Maxim Sokhatsky (http://tonpa.guru) Author
 * HoTT Courses (http://groupoid.space/course/)
 
+# The Languages #2
+
+Groupoid Infinity Presentation (Slides) for Public Event Quanterall HQ Varna, Bulgaria, 13 June 2019<br>
+DOI: 10.13140/RG.2.2.28584.21763 https://cafe.groupoid.space/languages.pdf
+
+Abstract
+--------
+
+Introduction to Formal Languages, its Design and Implementations.
+Three practial modern pure languages will be disclosed: Plutus (Haskell), Morte (Erlang), Formality (Rust).
+
+Credits
+-------
+
+* Quanterall (http://quanterall.com) Sponsor
 
