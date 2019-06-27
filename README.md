@@ -32,6 +32,18 @@ Abstract
 Introduction to Formal Languages, its Design and Implementations.
 Three practial modern pure languages will be disclosed: Plutus (Haskell), Morte (Erlang), Formality (Rust).
 
+# The Systems #3
+
+Voxoz Presentation (Slides) for Public Event Quanterall HQ Varna, Bulgaria, 27 June 2019<br>
+DOI: 10.13140/RG.2.2.28584.21763 https://cafe.groupoid.space/systems.pdf
+
+Abstract
+--------
+
+Introduction to Operating Systems, its Design and Implementations.
+POSIX, Microkernels, Unikernels.
+Real time unikernel with O vector processing language will be disclosed.
+
 Credits
 -------
 
