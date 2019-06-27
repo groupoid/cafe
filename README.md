@@ -2,7 +2,7 @@
 
 Groupoid Infinity Presentation (Slides) for Public Event, Kyiv, Ukraine, f(cafe), 25 July 2018 
 https://www.facebook.com/kievfprog/posts/1626535840802381 <br>
-DOI: 10.13140/RG.2.2.36617.34402 https://cafe.groupoid.space/cafe.pdf
+DOI: 10.13140/RG.2.2.36617.34402 <a href="https://cafe.groupoid.space/cafe.pdf">cafe.groupoid.space/cafe.pdf</a>
 
 Abstract
 --------
@@ -24,7 +24,7 @@ Credits
 # The Languages #2
 
 Groupoid Infinity Presentation (Slides) for Public Event Quanterall HQ Varna, Bulgaria, 13 June 2019<br>
-DOI: 10.13140/RG.2.2.28584.21763 https://cafe.groupoid.space/languages.pdf
+DOI: 10.13140/RG.2.2.28584.21763 <a href="https://cafe.groupoid.space/languages.pdf">cafe.groupoid.space/languages.pdf</a>
 
 Abstract
 --------
@@ -35,7 +35,7 @@ Three practial modern pure languages will be disclosed: Plutus (Haskell), Morte 
 # The Systems #3
 
 Voxoz Presentation (Slides) for Public Event Quanterall HQ Varna, Bulgaria, 27 June 2019<br>
-DOI: 10.13140/RG.2.2.28584.21763 https://cafe.groupoid.space/systems.pdf
+DOI: 10.13140/RG.2.2.28584.21763 <a href="https://cafe.groupoid.space/systems.pdf">cafe.groupoid.space/systems.pdf</a>
 
 Abstract
 --------
