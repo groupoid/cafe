@@ -49,3 +49,22 @@ Credits
 
 * Quanterall (http://quanterall.com) Sponsor
 
+# Anders 0.7.2 #4
+
+Public Event, Kyiv, Ukraine, Groupoid Cafe, 17 July 2021
+DOI: 10.13140/RG.2.2.25096.55040 <a href="https://cafe.groupoid.space/anders.0.7.2.pdf">cafe.groupoid.space/anders.0.7.2.pdf</a>
+
+Abstract
+--------
+
+The HTS language proposed by Voevodsky exposes two different presheaf
+models of type theory: the inner one is homotopy type system presheaf
+that models HoTT and the outer one is traditional Martin-Löf type system presheaf
+that models set theory with UIP. The motivation behind this doubling
+is to have an ability to express semisemplicial types. Theoretical
+work on merging inner and outer languages was continued in 2LTT.
+
+Credits
+-------
+
+* INFOTECH SE (http://infotech.gov.ua) Host
