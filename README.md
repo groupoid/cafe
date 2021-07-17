@@ -51,7 +51,7 @@ Credits
 
 # Anders 0.7.2 #4
 
-Public Event, Kyiv, Ukraine, Groupoid Cafe, 17 July 2021
+Public Event, Kyiv, Ukraine, Groupoid Cafe, 17 July 2021<br>
 DOI: 10.13140/RG.2.2.25096.55040 <a href="https://cafe.groupoid.space/anders.0.7.2.pdf">cafe.groupoid.space/anders.0.7.2.pdf</a>
 
 Abstract
