@@ -64,6 +64,12 @@ that models set theory with UIP. The motivation behind this doubling
 is to have an ability to express semisemplicial types. Theoretical
 work on merging inner and outer languages was continued in 2LTT.
 
+While we are on our road to Lean-like tactic language, currently
+we are at the stage of regular cubical HTS type checker with CHM-style
+primitives. You may try it at Github:
+<a href="https://github.com/groupoid/anders">groupoid/anders</a> or
+install with opam: `opam install anders`.
+
 Credits
 -------
 
