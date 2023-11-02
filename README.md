@@ -1,7 +1,6 @@
 # HoTT: The Language of Space #1
 
 Groupoid Infinity Presentation (Slides) for Public Event, Kyiv, Ukraine, f(cafe), 25 July 2018 
-https://www.facebook.com/kievfprog/posts/1626535840802381 <br>
 DOI: 10.13140/RG.2.2.36617.34402 <a href="https://cafe.groupoid.space/cafe.pdf">cafe.groupoid.space/cafe.pdf</a>
 
 Abstract
