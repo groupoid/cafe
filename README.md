@@ -18,7 +18,7 @@ Credits
 -------
 
 * Intetics (http://intetics.com) Sponsor
-* HoTT Courses (http://groupoid.space/course/)
+* HoTT Courses (https://anders.groupoid.space/lib/)
 
 # The Languages #2
 
