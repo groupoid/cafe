@@ -74,7 +74,7 @@ Credits
 
 * INFOTECH SE (http://infotech.gov.ua) Host
 
-# Презентація лабораторії "Групоїд Інфініті" #5
+# Офіційне відкриття "Групоїд Інфініті" #5
 
 Public Event, Kyiv, Ukraine, Groupoid Cafe, 8 June 2025<br>
 
