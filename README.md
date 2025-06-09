@@ -90,10 +90,10 @@ Abstract
 Посилання
 -----------
 
-* [1]. Near-тактика для матьоші https://perso.crans.org/cohen/CoqWS2018.pdf
-* [2]. Аргумент Девіда Чалмерса
-* [3]. Стаття Куна про огляд фреймворків теорій свідомості
-* [4]. Youtube канал Курта Джаймунгала
+* [1]. <a href="https://perso.crans.org/cohen/CoqWS2018.pdf">Near-тактика 2018 від Кирила Коена</a> як натхнення для "Лорана"
+* [2]. <a href="https://consc.net/papers/facing.pdf">Аргумент Девіда Чалмерса</a>
+* [3]. <a href="https://gist.github.com/5HT/106bbb1c0b4e2de342d8a1c61b50aab4">Реферат статті Куна про огляд фреймворків теорій свідомості</a>
+* [4]. <a href="https://www.youtube.com/@TheoriesofEverything">Youtube канал Курта Джаймунгала</a>
 * [5]. <a href="https://github.com/groupoid/cafe/issues/2">Обговорення</a>
 
 Credits
