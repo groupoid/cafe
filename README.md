@@ -86,18 +86,18 @@ Abstract
 &nbsp;&nbsp;&nbsp;&mdash; <a href="https://axio.groupoid.space/">науково-дослідна лабораторія</a>;<br>
 &nbsp;&nbsp;&nbsp;&mdash; <a href="https://groupoid.space/institute/">інститут формальної математики</a> третього рівня акредитації.<br>
 * [2]. <a href="https://groupoid.space/books/vol6/approaches.pdf">Тривіалізація складності: два типи математичного мислення</a>.
-* [3]. Презентація чотирьохтомника "Групоїд Інфініті" (Огляд результатів)
+* [3]. Презентація чотирьохтомника "Групоїд Інфініті" (Огляд результатів).
 
 Посилання
 -----------
 
-* [1]. <a href="https://perso.crans.org/cohen/CoqWS2018.pdf">Near-тактика 2018 від Кирила Коена</a> як натхнення для "Лорана"
-* [2]. <a href="https://consc.net/papers/facing.pdf">Аргумент Девіда Чалмерса</a>
-* [3]. <a href="https://gist.github.com/5HT/106bbb1c0b4e2de342d8a1c61b50aab4">Реферат статті Куна про огляд фреймворків теорій свідомості</a>
-* [4]. <a href="https://www.youtube.com/@TheoriesofEverything">Youtube канал Курта Джаймунгала</a>
-* [5]. <a href="https://github.com/groupoid/cafe/issues/2">Обговорення</a>
+* [1]. <a href="https://perso.crans.org/cohen/CoqWS2018.pdf">Near-тактика 2018 від Кирила Коена</a> як натхнення для "Лорана".
+* [2]. <a href="https://consc.net/papers/facing.pdf">Аргумент Девіда Чалмерса</a>.
+* [3]. <a href="https://gist.github.com/5HT/106bbb1c0b4e2de342d8a1c61b50aab4">Реферат статті Куна про огляд фреймворків теорій свідомості</a>.
+* [4]. <a href="https://www.youtube.com/@TheoriesofEverything">Youtube канал Курта Джаймунгала</a>.
+* [5]. <a href="https://github.com/groupoid/cafe/issues/2">Обговорення</a>.
 
 Credits
 -------
 
-* Українська релігійна організація "Лонгчен Нінгтік" (http://longchenpa.guru) Host
+* Українська релігійна організація "Лонгчен Нінгтік" (http://longchenpa.guru) Юридична адреса організації
