@@ -81,11 +81,12 @@ Public Event, Kyiv, Ukraine, Groupoid Cafe, 8 June 2025<br>
 Abstract
 --------
 
-1) Що таке Групоїд Інфініті?
-    * <a href="https://github.com/groupoid/">математична школа</a>;
-    * <a href="https://axio.groupoid.space/">науково-дослідна лабораторія</a>;
-    * <a href="https://groupoid.space/institute/">інститут формальної математики</a> третього рівня акредитації.
-2) <a href="https://groupoid.space/books/vol6/approaches.pdf">Тривіалізація складності: два типи математичного мислення</a>.
+* [1]. Що таке Групоїд Інфініті?<br>
+&nbsp;&nbsp;&nbsp;&mdash; <a href="https://github.com/groupoid/">математична школа</a>;
+&nbsp;&nbsp;&nbsp;&mdash; <a href="https://axio.groupoid.space/">науково-дослідна лабораторія</a>;
+&nbsp;&nbsp;&nbsp;&mdash; <a href="https://groupoid.space/institute/">інститут формальної математики</a> третього рівня акредитації.
+* [2]. <a href="https://groupoid.space/books/vol6/approaches.pdf">Тривіалізація складності: два типи математичного мислення</a>.
+* [3]. Презентація чотирьохтомника "Групоїд Інфініті" (Огляд результатів)
 
 Посилання
 -----------
