@@ -87,6 +87,15 @@ Abstract
     * <a href="https://groupoid.space/institute/">інститут формальної математики</a> третього рівня акредитації.
 2) <a href="https://groupoid.space/books/vol6/approaches.pdf">Тривіалізація складності: два типи математичного мислення</a>.
 
+Посилання
+-----------
+
+* [1]. Near-тактика для матьоші https://perso.crans.org/cohen/CoqWS2018.pdf
+* [2]. Аргумент Девіда Чалмерса
+* [3]. Стаття Куна про огляд фреймворків теорій свідомості
+* [4]. Youtube канал Курта Джаймунгала
+* [5]. <a href="https://github.com/groupoid/cafe/issues/2">Обговорення</a>
+
 Credits
 -------
 
